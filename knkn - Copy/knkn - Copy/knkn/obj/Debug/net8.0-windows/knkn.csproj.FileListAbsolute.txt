@@ -1,0 +1,34 @@
+C:\Users\LENOVO\Downloads\knkn\knkn\bin\Debug\net8.0-windows\knkn.exe
+C:\Users\LENOVO\Downloads\knkn\knkn\bin\Debug\net8.0-windows\knkn.deps.json
+C:\Users\LENOVO\Downloads\knkn\knkn\bin\Debug\net8.0-windows\knkn.runtimeconfig.json
+C:\Users\LENOVO\Downloads\knkn\knkn\bin\Debug\net8.0-windows\knkn.dll
+C:\Users\LENOVO\Downloads\knkn\knkn\bin\Debug\net8.0-windows\knkn.pdb
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.Form1.resources
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.dll
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\refint\knkn.dll
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.pdb
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\ref\knkn.dll
+C:\Users\LENOVO\Downloads\knkn\knkn\obj\Debug\net8.0-windows\knkn.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\bin\Debug\net8.0-windows\knkn.exe
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\bin\Debug\net8.0-windows\knkn.deps.json
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\bin\Debug\net8.0-windows\knkn.runtimeconfig.json
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\bin\Debug\net8.0-windows\knkn.dll
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\bin\Debug\net8.0-windows\knkn.pdb
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.Form1.resources
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.dll
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\refint\knkn.dll
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.pdb
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\knkn.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\knkn - Copy\knkn\obj\Debug\net8.0-windows\ref\knkn.dll
